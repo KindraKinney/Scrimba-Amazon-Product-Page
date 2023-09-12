@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    
+}
+
+.container {
+    display: flex;
+    
+}
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+}
+
+.breadcrumb {
+    font-color: #565959;
+}
