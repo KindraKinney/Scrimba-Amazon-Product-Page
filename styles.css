@@ -1,23 +1,27 @@
 body {
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif; 
+    padding: 10px;
+    
 }
 
-.title {
-    font-weight: lighter;
-}
 
 .main-img {
     box-shadow: 0px 2px 5px lightgray;
 }
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    
-}
+
 
 .container {
     display: flex;
     
+    justify-content: space-evenly;
+
+
+    
+}
+
+.book-info {
+    width: 400px;
+    
 }
 .title {
     font-weight: lighter;
@@ -25,8 +29,14 @@ body {
 
 .main-img {
     box-shadow: 0px 2px 5px lightgray;
+    width: 300px;
 }
 
 .breadcrumb {
-    font-color: #565959;
+   color: #565959;
+   
+}
+
+a:link, a:visited {
+    color: #007185;
 }
