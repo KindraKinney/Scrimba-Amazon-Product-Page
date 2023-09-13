@@ -20,11 +20,13 @@ body {
 }
 
 .book-info {
-    width: 400px;
+    width: 650px;
+    
     
 }
 .title {
     font-weight: lighter;
+    width: 600px;
 }
 
 .main-img {
